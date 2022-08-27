@@ -3,7 +3,7 @@ title: Simulating Language
 description: Academic year 2022/2023
 ---
 
-This is the webpage for the Honours/MSc course Simulating Language, running in academic year 2021/2022. We will add links to materials (readings, videos, code) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye out for any course announcements.
+This is the webpage for the Honours/MSc course Simulating Language, running in academic year 2022/2023. We will add links to materials (readings, videos, code) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye out for any course announcements.
 
 
 ## Course summary
@@ -14,7 +14,7 @@ This is a practical course: you'll be running and tinkering with code for comput
 
 ## The teaching team
 
-[Simon Kirby](http://www.lel.ed.ac.uk/~simon/) is the lecturer for this course, and Matt Spike is in charge of labs and assessements. The best way to get in touch with us is in one of the drop-in lab sessions, see below, or by messaging on Teams. Please don't email.
+[Simon Kirby](https://simonkirby.net/) is the lecturer for this course, and Matt Spike is in charge of labs and assessements. The best way to get in touch with us is in one of the drop-in lab sessions, see below, or by messaging on Teams. Please don't email.
 
 ## Structure of the course
 
@@ -64,7 +64,7 @@ The assignments will be available on Learn to start working on after the last la
 
 ## Course Materials
 
-Dates for lectures and labs shown in brackets.
+Dates for lectures and labs shown in brackets. Please note that we will only post the answers for each lab the week following the lab. So please do have a go yourself, and come along to the lab sessions if you get stuck!
 
 ### 1. Introduction
 
@@ -78,8 +78,8 @@ Dates for lectures and labs shown in brackets.
 
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
 - [Lecture slides](lecture_slides/lecture2.pdf) (Jan 28)
-- Programming practical: [Word learning](https://github.com/smkirby/simlang2022/blob/master/lab2.ipynb) (Jan 31, Feb 2, 3)
-- Answers to Practical: [Word learning answers](https://github.com/smkirby/simlang2022/blob/master/lab2_answered.ipynb)
+- Programming practical: [Word learning](https://github.com/smkirby/simlang2022-23/blob/master/lab2.ipynb) (Jan 31, Feb 2, 3)
+- Answers to Practical: [Word learning answers](https://github.com/smkirby/simlang2022-23/blob/master/lab2_answered.ipynb)
 
 ### 3. Frequency learning and regularisation
 

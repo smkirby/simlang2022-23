@@ -12,7 +12,7 @@ To do that:
 
 1. Go to the Simulating Language page on [Learn](http://www.learn.ed.ac.uk/)
 2. Click on the 'Course Materials' tab on the left
-3. Click on the **Notable** link at the bottom (you may find you need to temporarily allow pop-ups in your browser. I realise this is super annoying, sorry!)
+3. Click on the **Noteable** link at the bottom (you may find you need to temporarily allow pop-ups in your browser. I realise this is super annoying, sorry!)
 4. Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server (if there is a list of options available, stay with "Standard Notebook (Python 3)").
     ![noteable screenshot](images/lab1_noteable_screenshot.png)
 5. Once you've started and connected/reconnected to the server you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating.

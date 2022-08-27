@@ -1,6 +1,6 @@
 ---
 title: Simulating Language
-description: Academic year 2021/2022
+description: Academic year 2022/2023
 ---
 
 This is the webpage for the Honours/MSc course Simulating Language, running in academic year 2021/2022. We will add links to materials (readings, videos, code) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye out for any course announcements.
@@ -14,7 +14,7 @@ This is a practical course: you'll be running and tinkering with code for comput
 
 ## The teaching team
 
-[Simon Kirby](http://www.lel.ed.ac.uk/~simon/) is the lecturer for this course, and Asha Sato is in charge of labs and assessements. The best way to get in touch with us is in one of the drop-in lab sessions, see below, or by messaging on Teams. Please don't email.
+[Simon Kirby](http://www.lel.ed.ac.uk/~simon/) is the lecturer for this course, and Matt Spike is in charge of labs and assessements. The best way to get in touch with us is in one of the drop-in lab sessions, see below, or by messaging on Teams. Please don't email.
 
 ## Structure of the course
 
@@ -31,22 +31,21 @@ You should always complete the reading materials and attend/watch the lecture be
 
 ### Lectures
 
-- Lectures are **Fridays 2.10pm-3pm** in F.21, 7 George Square
+- Lectures are **Fridays 3.10pm-4pm** in F.21, 7 George Square
 
-Lectures start in week 1, i.e. the first lecture is Friday 21st January. Lectures will be recorded and appear on Learn. We will aim to have the lectures in person, but if this is not possible they will be held live on Teams.
+Lectures start in week 1, i.e. the first lecture is Friday 23rd September. Lectures will be recorded and appear on Learn. We will aim to have the lectures in person, but if this is not possible they will be held live on Teams.
 
 ### Practicals and drop-in labs
 
-- Labs are in 4.02, Appleton Tower
+- Labs are in TBC
 
 You can attempt the programming practical on your own, but we will be providing drop-in labs at set times each week where you can come and get our help to figure out problems. You should come to the drop-in labs if you need help with a specific problem, but you are also welcome to just turn up in drop-in labs to hang out and work through things on your own with us in the background - some people find that having set times helps them focus.
 
 You will be assigned a lab group that will take place at one of the following times starting in week 2:
-- Mondays, 11.10am-1pm
-- Wednesdays, 1.10pm-3pm
-- Thursdays, 1.10pm-3pm
+- TBC
+- TBC
+- TBC
 
-The drop-in labs happen in person if possible, and if this is not possible on Gather. *You will be assigned a lab time and a tutor during week 1*. You can drop in at any time during your session and ask questions, get help with the programming practicals, or just hang out. You can come as much or as little as you want: we'll be sad if we never see you, but you'll probably be sad if you see us too much.
 
 ### Chat on Teams
 
@@ -56,12 +55,12 @@ In addition to asking questions in lectures and drop-in labs, we will set up cha
 
 The two assignments involve a mix of practical work and written sections and have the following deadlines:
 
-- 10th March at noon (released 17th February)
-- 7th April at noon (released 24th March)
+- TBC (released TBC)
+- TBC (released TBC)
 
 The assignments will be available on Learn to start working on after the last lab that relates to the content being assessed. This will usually be two weeks in advance of the deadline. You will submit your answers on turnitin as usual.
 
-*IMPORTANT* we will not be answering any questions about the assessments! This might seem harsh, but we have learned from painful experience that answering questions about the assessments after they have been handed out causes very serious problems, both in terms of workload for tutors and in terms of being fair for everyone working on the assessments. For example, it strongly disadvantages anyone who starts working on the assessments early, before all the questions have been answered. The only practical and equitable way of dealing with this is to have a perfectly level playing field and not answer any questions until all the assessments have been completed. Think about them more like take-home exams. (N.B. this restriction does not apply if you have a specific adjustment on your student record that allows for clarification on assessment questions. If so, please get in touch with Asha.)
+*IMPORTANT* we will only answer questions about the assignments for 4 days following the release of the assignment, and questions must be posted on the Teams channel so that everyone can see the answers! No further questions about the assignments will be answered after this. We have struggled with getting this right over the years, with some years people asking questions after other people have already submitted, which feels unfair, and other years not answering questions at all, which also felt unfair. I hope this year we've got the balance right!
 
 ## Course Materials
 
@@ -70,9 +69,11 @@ Dates for lectures and labs shown in brackets.
 ### 1. Introduction
 
 - Pre-lecture reading: [Introduction to modelling](simlang_reading_1.md)
-- [Lecture slides](lecture_slides/lecture1.pdf) (Jan 21)
-- Programming practical: [Introduction to Python](simlang_lab_1.md) (Jan 24, 26, 27)
+- [Lecture slides](lecture_slides/lecture1.pdf) (Sep 23)
+- Programming practical: [Introduction to Python](simlang_lab_1.md) (TBC)
 
+
+<!---
 ### 2. Concept learning
 
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
@@ -146,7 +147,7 @@ Dates for lectures and labs shown in brackets.
 - Reading: [Overview of this view of language](simlang_reading_10.md)
 - [Lecture slides](lecture_slides/lecture10.pdf) (Apr 8)
 
-
+--->
 ## Re-use
 
 This page was written by Simon Kirby, based on https://centre-for-language-evolution.github.io/simlang2021/, written by Kenny Smith and Simon Kirby. All aspects of this work are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

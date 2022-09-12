@@ -37,14 +37,14 @@ Lectures start in week 1, i.e. the first lecture is Friday 23rd September. Lectu
 
 ### Practicals and drop-in labs
 
-- Labs are in TBC
+- Labs are in 4.02, Appleton tower (Mondays and Wednesdays) and Hugh Robson Computer Lab (Thursdays)
 
-You can attempt the programming practical on your own, but we will be providing drop-in labs at set times each week where you can come and get our help to figure out problems. You should come to the drop-in labs if you need help with a specific problem, but you are also welcome to just turn up in drop-in labs to hang out and work through things on your own with us in the background - some people find that having set times helps them focus.
+You can attempt the programming practical on your own, but we provide the drop-in labs at set times each week where you can come and get our help to figure out problems. You should come to the drop-in labs if you need help with a specific problem, but you are also welcome to just turn up in drop-in labs to hang out and work through things on your own with us in the background - some people find that having set times helps them focus.
 
 You will be assigned a lab group that will take place at one of the following times starting in week 2:
-- TBC
-- TBC
-- TBC
+- Mondays 11:10 - 13:00 (Appleton Tower)
+- Wednesdays 13:10 - 15:00 (Appleton Tower) 
+- Thursdays 13:10 - 15:00 (Hugh Robson Building)
 
 
 ### Chat on Teams

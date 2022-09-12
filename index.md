@@ -70,7 +70,7 @@ Dates for lectures and labs shown in brackets. Please note that we will only pos
 
 - Pre-lecture reading: [Introduction to modelling](simlang_reading_1.md)
 - [Lecture slides](lecture_slides/lecture1.pdf) (Sep 23)
-- Programming practical: [Introduction to Python](simlang_lab_1.md) (TBC)
+- Programming practical: [Introduction to Python](simlang_lab_1.md) (Sep 26, 28, 29)
 
 
 <!---

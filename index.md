@@ -31,11 +31,7 @@ You should always complete the reading materials and attend/watch the lecture be
 
 ### Lectures
 
-<<<<<<< Updated upstream
-- Lectures are **Fridays 3.10pm-4pm** in F.21, 7 George Square
-=======
 - Lectures are **Fridays 15.10 - 16:00** in F.21, 7 George Square
->>>>>>> Stashed changes
 
 Lectures start in week 1, i.e. the first lecture is Friday 23rd September. Lectures will be recorded and appear on Learn. We will aim to have the lectures in person, but if this is not possible they will be held live on Teams.
 

@@ -1,6 +1,6 @@
 theme: jekyll-theme-midnight
 title: Simulating Language
-description: Academic year 2020-2021
+description: Academic year 2022-2023
 plugins:
   - jekyll-relative-links
 relative_links:

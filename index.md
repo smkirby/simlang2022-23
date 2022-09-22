@@ -55,12 +55,10 @@ In addition to asking questions in lectures and drop-in labs, we will set up cha
 
 The two assignments involve a mix of practical work and written sections and have the following deadlines:
 
-- TBC (released TBC)
-- TBC (released TBC)
+- 27th October at noon (released 17th October)
+- 8th December at noon (released 28th November)
 
-The assignments will be available on Learn to start working on after the last lab that relates to the content being assessed. This will usually be two weeks in advance of the deadline. You will submit your answers on turnitin as usual.
-
-*IMPORTANT* we will only answer questions about the assignments for 4 days following the release of the assignment, and questions must be posted on the Teams channel so that everyone can see the answers! No further questions about the assignments will be answered after this. We have struggled with getting this right over the years, with some years people asking questions after other people have already submitted, which feels unfair, and other years not answering questions at all, which also felt unfair. I hope this year we've got the balance right!
+*IMPORTANT* we will only answer questions about the assignments for 4 days following the release of the assignment, and questions *must* be posted on the Teams channel so that everyone can see the answers! No further questions about the assignments will be answered after this. We have struggled with getting this right over the years, with some years people asking questions after other people have already submitted, which feels unfair, and other years not answering questions at all, which also felt unfair. I hope this year we've got the balance right!
 
 ## Course Materials
 

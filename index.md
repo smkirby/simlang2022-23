@@ -72,12 +72,13 @@ Dates for lectures and labs shown in brackets. Please note that we will only pos
 - [Lecture slides](lecture_slides/lecture1.pdf) (Sep 23)
 - Programming practical: [Introduction to Python](simlang_lab_1.md) (Sep 26, 28, 29)
 
-
-<!---
 ### 2. Concept learning
 
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
-- [Lecture slides](lecture_slides/lecture2.pdf) (Jan 28)
+- [Lecture slides](lecture_slides/lecture2.pdf) (Sep 30)
+
+<!---
+
 - Programming practical: [Word learning](https://github.com/smkirby/simlang2022-23/blob/master/lab2.ipynb) (Jan 31, Feb 2, 3)
 - Answers to Practical: [Word learning answers](https://github.com/smkirby/simlang2022-23/blob/master/lab2_answered.ipynb)
 

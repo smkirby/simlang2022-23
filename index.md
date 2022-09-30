@@ -76,10 +76,10 @@ Dates for lectures and labs shown in brackets. Please note that we will only pos
 
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
 - [Lecture slides](lecture_slides/lecture2.pdf) (Sep 30)
+- Programming practical: [Word learning](https://nbviewer.org/github.com/smkirby/simlang2022-23/blob/master/lab2.ipynb) (Jan 31, Feb 2, 3)
 
-<!---
+<!--
 
-- Programming practical: [Word learning](https://github.com/smkirby/simlang2022-23/blob/master/lab2.ipynb) (Jan 31, Feb 2, 3)
 - Answers to Practical: [Word learning answers](https://github.com/smkirby/simlang2022-23/blob/master/lab2_answered.ipynb)
 
 ### 3. Frequency learning and regularisation

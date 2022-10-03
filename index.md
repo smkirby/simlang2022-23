@@ -64,7 +64,9 @@ The two assignments involve a mix of practical work and written sections and hav
 
 ## Course Materials
 
-Dates for lectures and labs shown in brackets. Please note that we will only post the answers for each lab the week following the lab. So please do have a go yourself, and come along to the lab sessions if you get stuck!
+Dates for lectures and labs shown in brackets. Please note that we will only post the answers for each lab the week following the lab. So please do have a go yourself, and come along to the lab sessions if you get stuck! 
+
+N.B. The numbers below indicate the order of the sections of the course, but it's possible that lectures may move. Note that there are 11 weeks in the teaching semester to fit 10 lectures into, which allows a bit of flexibility.
 
 ### 1. Introduction
 
@@ -77,6 +79,23 @@ Dates for lectures and labs shown in brackets. Please note that we will only pos
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
 - [Lecture slides](lecture_slides/lecture2.pdf) (Sep 30)
 - Programming practical: [Word learning](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab2.ipynb) (Jan 31, Feb 2, 3)
+
+### 3. Concept learning
+
+### 4. Iterated learning
+
+### 5. Communication and the RSA model
+
+### 6. Compositionality
+
+### 7. Hierarchical models and learning the prior
+
+### 8. Innateness and culture
+
+### 9. Biological and cultural evolution together
+
+### 10. This view of language
+
 
 <!--
 

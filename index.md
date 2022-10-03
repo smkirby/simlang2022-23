@@ -78,9 +78,12 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
 - [Lecture slides](lecture_slides/lecture2.pdf) (Sep 30)
-- Programming practical: [Word learning](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab2.ipynb) (Jan 31, Feb 2, 3)
+- Programming practical: [Word learning](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab2.ipynb) (Oct 3, 5, 6)
 
-### 3. Concept learning
+### 3. Frequency learning and regularisation
+
+- No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
+- [Lecture slides](lecture_slides/lecture3.pdf) (Oct 7)
 
 ### 4. Iterated learning
 

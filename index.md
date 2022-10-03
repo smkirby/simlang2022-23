@@ -85,11 +85,11 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
 - [Lecture slides](lecture_slides/lecture3.pdf) (Oct 7)
 
-### 4. Iterated learning
+### 4. Cultural evolution by iterated learning
 
 ### 5. Communication and the RSA model
 
-### 6. Compositionality
+### 6. Compositionality: the origins of structure
 
 ### 7. Hierarchical models and learning the prior
 

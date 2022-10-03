@@ -12,7 +12,7 @@ You should do at least one of the following two reading options, followed by the
 
 # For the basics (if in doubt, take this option)
 
-Read Chapter 1 of [Stone (2013)](http://jim-stone.staff.shef.ac.uk/BookBayes2012/bookbayesch01.pdf). This will equip you with just enough to understand the lectures and do stuff with the code. Don’t worry about the section titled “Model Selection, Posterior Ratios and Bayes Factors”, we won’t be using any of that. Your enjoyment of the “fork handles” example may be increased by watching this:
+Read Chapter 1 of [Stone (2013)](https://jamesstone.sites.sheffield.ac.uk/books/bayes-rule/an-introduction-to-bayes-rule-chapter-1). This will equip you with just enough to understand the lectures and do stuff with the code. Don’t worry about the section titled “Model Selection, Posterior Ratios and Bayes Factors”, we won’t be using any of that. Your enjoyment of the “fork handles” example may be increased by watching this:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pV1IP4N9ajg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

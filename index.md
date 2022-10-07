@@ -95,7 +95,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
   - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
   - [Code for generating these videos](https://nbviewer.org/github/smkirby/simlang2022-23/blob/gh-pages/lecture_slides/lecture4_videos/lecture4_figures.ipynb)
 
-- Post-lecture reading: [Bayesian iterated learning](simlang_reading_4.md)
+- Post-lecture reading (read this directly after the lecture, not before): [Bayesian iterated learning](simlang_reading_4.md)
 
 
 

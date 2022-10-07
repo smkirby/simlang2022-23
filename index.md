@@ -79,13 +79,23 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
 - [Lecture slides](lecture_slides/lecture2.pdf) (Sep 30)
 - Programming practical: [Word learning](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab2.ipynb) (Oct 3, 5, 6)
+- Answers to Practical: [Word learning answers](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab2_answered.ipynb)
 
 ### 3. Frequency learning and regularisation
 
 - No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
 - [Lecture slides](lecture_slides/lecture3.pdf) (Oct 7)
+- Programming practical: [Frequency learning and regularisation](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab3.ipynb) (Oct 10, 12, 13)
+
 
 ### 4. Cultural evolution by iterated learning
+
+- Post-lecture reading: [Bayesian iterated learning](simlang_reading_4.md)
+- [Lecture slides](lecture_slides/lecture4.pdf) (Oct 14)
+  - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
+  - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
+  - [Code for generating these videos](https://nbviewer.org/github/smkirby/simlang2022-23/blob/gh-pages/lecture_slides/lecture4_videos/lecture4_figures.ipynb)
+
 
 ### 5. Communication and the RSA model
 
@@ -102,23 +112,13 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 <!--
 
-- Answers to Practical: [Word learning answers](https://github.com/smkirby/simlang2022-23/blob/master/lab2_answered.ipynb)
 
-### 3. Frequency learning and regularisation
 
-- No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
-- [Lecture slides](lecture_slides/lecture3.pdf) (Feb 4)
-- Programming practical: [Frequency learning and regularisation](https://github.com/smkirby/simlang2022/blob/master/lab3.ipynb) (Feb 7, 9, 10)
 - Answers to Practical: [Frequency learning and regularisation answers](https://github.com/smkirby/simlang2022/blob/master/lab3_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_3_walkthrough/1_1pyq2qg1)
 
 ### 4. Iterated Learning
 
-- Post-lecture reading: [Bayesian iterated learning](simlang_reading_4.md)
-- [Lecture slides](lecture_slides/lecture4.pdf) (Feb 11)
-  - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
-  - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
-  - [Code for generating these videos](lecture_slides/lecture4_videos/lecture4_figures.ipynb)
 - Programming practical: [Bayesian iterated learning](https://github.com/smkirby/simlang2022/blob/master/lab4.ipynb) (Feb 14, 16, 17, 28, Mar 2, 3)
 - Answers to practical [Bayesian iterated learning](https://github.com/smkirby/simlang2022/blob/master/lab4_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_4_walkthrough/1_kv20uefj)

@@ -86,6 +86,8 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
 - [Lecture slides](lecture_slides/lecture3.pdf) (Oct 7)
 - Programming practical: [Frequency learning and regularisation](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab3.ipynb) (Oct 10, 12, 13)
+- Answers to Practical: [Frequency learning and regularisation answers](https://nbviewer.org/github/smkirby/simlang2022/blob/main/lab3_answered.ipynb)
+- [Walkthrough video](https://media.ed.ac.uk/media/lab_3_walkthrough/1_1pyq2qg1)
 
 
 ### 4. Cultural evolution by iterated learning
@@ -94,10 +96,11 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
   - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
   - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
   - [Code for generating these videos](https://nbviewer.org/github/smkirby/simlang2022-23/blob/gh-pages/lecture_slides/lecture4_videos/lecture4_figures.ipynb)
-
 - Post-lecture reading (read this directly after the lecture, not before): [Bayesian iterated learning](simlang_reading_4.md)
-
-
+- Programming practical: [Bayesian iterated learning](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab4.ipynb) (Oct 17, 19, 20)
+- *Logarithms for the concerned*: a supplementary walkthrough in three parts
+  - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
+  - [notebook](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/LogExplainer.ipynb)
 
 ### 5. Communication and the RSA model
 
@@ -116,17 +119,14 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 
 
-- Answers to Practical: [Frequency learning and regularisation answers](https://github.com/smkirby/simlang2022/blob/master/lab3_answered.ipynb)
-- [Walkthrough video](https://media.ed.ac.uk/media/lab_3_walkthrough/1_1pyq2qg1)
+
 
 ### 4. Iterated Learning
 
-- Programming practical: [Bayesian iterated learning](https://github.com/smkirby/simlang2022/blob/master/lab4.ipynb) (Feb 14, 16, 17, 28, Mar 2, 3)
+
 - Answers to practical [Bayesian iterated learning](https://github.com/smkirby/simlang2022/blob/master/lab4_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_4_walkthrough/1_kv20uefj)
-- *Logarithms for the concerned*: a supplementary walkthrough in three parts
-  - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
-  - [notebook](https://github.com/smkirby/simlang2022/blob/master/LogExplainer.ipynb)
+
 
 ### 5. Communication and the RSA model
 

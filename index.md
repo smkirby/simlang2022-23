@@ -104,6 +104,9 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 ### 5. Communication and the RSA model
 
+- Reading: [The Rational Speech Act model](simlang_reading_5.md)
+- [Lecture slides](lecture_slides/lecture5.pdf) (Oct 21)
+
 ### 6. Compositionality: the origins of structure
 
 ### 7. Hierarchical models and learning the prior
@@ -130,8 +133,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 ### 5. Communication and the RSA model
 
-- Reading: [The Rational Speech Act model](simlang_reading_5.md)
-- [Lecture slides](lecture_slides/lecture5.pdf) (Mar 4)
+
 - Programming practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2022/blob/master/lab5.ipynb) (Mar 7, 9, 10)
 - Answers to Practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2022/blob/master/lab5_answered.ipynb)
 

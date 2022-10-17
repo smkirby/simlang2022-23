@@ -62,6 +62,8 @@ The two assignments involve a mix of practical work and written sections and hav
 
 *IMPORTANT* we will only answer questions about the assignments for 4 days following the release of the assignment, and questions *must* be posted on the Teams channel so that everyone can see the answers! No further questions about the assignments will be answered after this. We have struggled with getting this right over the years, with some years people asking questions after other people have already submitted, which feels unfair, and other years not answering questions at all, which also felt unfair. I hope this year we've got the balance right!
 
+For UG students, each assessment is weighted equally for the final marks. For PG students, the first assessment is worth 30% and the second is worth 70%.
+
 ## Course Materials
 
 Dates for lectures and labs shown in brackets. Please note that we will only post the answers for each lab the week following the lab. So please do have a go yourself, and come along to the lab sessions if you get stuck! 

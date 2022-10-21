@@ -103,11 +103,15 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - *Logarithms for the concerned*: a supplementary walkthrough in three parts
   - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
   - [notebook](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/LogExplainer.ipynb)
+- Answers to practical [Bayesian iterated learning](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab4_answered.ipynb)
+- [Walkthrough video](https://media.ed.ac.uk/media/lab_4_walkthrough/1_kv20uefj)
+
 
 ### 5. Communication and the RSA model
 
 - Reading: [The Rational Speech Act model](simlang_reading_5.md)
 - [Lecture slides](lecture_slides/lecture5.pdf) (Oct 21)
+- Programming practical: [The Rational Speech Act model](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab5.ipynb) (Oct 24, 26, 27)
 
 ### 6. Compositionality: the origins of structure
 
@@ -129,14 +133,11 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 ### 4. Iterated Learning
 
 
-- Answers to practical [Bayesian iterated learning](https://github.com/smkirby/simlang2022/blob/master/lab4_answered.ipynb)
-- [Walkthrough video](https://media.ed.ac.uk/media/lab_4_walkthrough/1_kv20uefj)
 
 
 ### 5. Communication and the RSA model
 
 
-- Programming practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2022/blob/master/lab5.ipynb) (Mar 7, 9, 10)
 - Answers to Practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2022/blob/master/lab5_answered.ipynb)
 
 ### 6. Compositionality

@@ -115,6 +115,9 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 ### 6. Compositionality: the origins of structure
 
+- Reading: [The evolution of compositionality](simlang_reading_6.md)
+- [Lecture slides](lecture_slides/lecture6.pdf) (Oct 28)
+
 ### 7. Hierarchical models and learning the prior
 
 ### 8. Innateness and culture
@@ -142,8 +145,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 ### 6. Compositionality
 
-- Reading: [The evolution of compositionality](simlang_reading_6.md)
-- [Lecture slides](lecture_slides/lecture6.pdf) (Mar 11)
+
 - Programming practical: [Compositionality](https://github.com/smkirby/simlang2022/blob/master/lab6.ipynb) (Mar 14, 16, 17)
 - Answers to Practical: [Compositionality](https://github.com/smkirby/simlang2022/blob/master/lab6_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_6_walkthrough/1_cv3bptoq)

@@ -112,13 +112,21 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Reading: [The Rational Speech Act model](simlang_reading_5.md)
 - [Lecture slides](lecture_slides/lecture5.pdf) (Oct 21)
 - Programming practical: [The Rational Speech Act model](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab5.ipynb) (Oct 24, 26, 27)
+- Answers to Practical: [The Rational Speech Act model](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab5_answered.ipynb)
+
 
 ### 6. Compositionality: the origins of structure
 
 - Reading: [The evolution of compositionality](simlang_reading_6.md)
 - [Lecture slides](lecture_slides/lecture6.pdf) (Oct 28)
+- Programming practical: [Compositionality](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab6.ipynb) (Oct 31, Nov 2, 3)
+
 
 ### 7. Hierarchical models and learning the prior
+
+- Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
+- [Lecture slides](lecture_slides/lecture7.pdf) 
+
 
 ### 8. Innateness and culture
 
@@ -130,31 +138,15 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 <!--
 
 
-
-
-
-### 4. Iterated Learning
-
-
-
-
-### 5. Communication and the RSA model
-
-
-- Answers to Practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2022/blob/master/lab5_answered.ipynb)
-
 ### 6. Compositionality
 
 
-- Programming practical: [Compositionality](https://github.com/smkirby/simlang2022/blob/master/lab6.ipynb) (Mar 14, 16, 17)
 - Answers to Practical: [Compositionality](https://github.com/smkirby/simlang2022/blob/master/lab6_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_6_walkthrough/1_cv3bptoq)
 
 
 ### 7. Hierarchical models and learning the prior **Cancelled due to industrial action**
 
-- Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
-- [Lecture slides](lecture_slides/lecture7.pdf) 
 - Programming practical: [Hierarchical learning](https://github.com/smkirby/simlang2022/blob/master/lab7.ipynb)
 - Answers to Practical: [Hierarchical learning](https://github.com/smkirby/simlang2022/blob/master/lab7_answered.ipynb)
 

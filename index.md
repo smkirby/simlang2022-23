@@ -125,7 +125,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 ### 7. Hierarchical models and learning the prior
 
 - Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
-- [Lecture slides](lecture_slides/lecture7.pdf) 
+- [Lecture slides](lecture_slides/lecture7.pdf) (Nov 4)
 
 
 ### 8. Innateness and culture

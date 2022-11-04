@@ -120,15 +120,22 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Reading: [The evolution of compositionality](simlang_reading_6.md)
 - [Lecture slides](lecture_slides/lecture6.pdf) (Oct 28)
 - Programming practical: [Compositionality](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab6.ipynb) (Oct 31, Nov 2, 3)
+- Answers to Practical: [Compositionality](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab6_answered.ipynb)
+- [Walkthrough video](https://media.ed.ac.uk/media/lab_6_walkthrough/1_cv3bptoq)
 
 
 ### 7. Hierarchical models and learning the prior
 
 - Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
 - [Lecture slides](lecture_slides/lecture7.pdf) (Nov 4)
+- Programming practical: [Hierarchical learning](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab7.ipynb) (Nov 7, 9, 10)
 
 
 ### 8. Innateness and culture
+
+- Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
+- [Lecture slides](lecture_slides/lecture8.pdf) (Nov 11)
+
 
 ### 9. Biological and cultural evolution together
 
@@ -138,22 +145,13 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 <!--
 
 
-### 6. Compositionality
-
-
-- Answers to Practical: [Compositionality](https://github.com/smkirby/simlang2022/blob/master/lab6_answered.ipynb)
-- [Walkthrough video](https://media.ed.ac.uk/media/lab_6_walkthrough/1_cv3bptoq)
-
 
 ### 7. Hierarchical models and learning the prior **Cancelled due to industrial action**
 
-- Programming practical: [Hierarchical learning](https://github.com/smkirby/simlang2022/blob/master/lab7.ipynb)
 - Answers to Practical: [Hierarchical learning](https://github.com/smkirby/simlang2022/blob/master/lab7_answered.ipynb)
 
 ### 8. Innateness and culture
 
-- Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
-- [Lecture slides](lecture_slides/lecture8.pdf) (Mar 18)
 - Programming practical: [Convergence to the prior](https://github.com/smkirby/simlang2022/blob/master/lab8.ipynb) (Mar 28, 30, 31)
 - Answers to Practical: [Convergence to the prior](https://github.com/smkirby/simlang2022/blob/master/lab8_answered.ipynb)
 

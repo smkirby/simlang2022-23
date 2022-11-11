@@ -129,15 +129,22 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
 - [Lecture slides](lecture_slides/lecture7.pdf) (Nov 4)
 - Programming practical: [Hierarchical learning](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab7.ipynb) (Nov 7, 9, 10)
+- Answers to Practical: [Hierarchical learning](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab7_answered.ipynb)
+
 
 
 ### 8. Innateness and culture
 
 - Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
 - [Lecture slides](lecture_slides/lecture8.pdf) (Nov 11)
+- Programming practical: [Convergence to the prior](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab8.ipynb) (Nov 14, 15, 17)
 
 
 ### 9. Biological and cultural evolution together
+
+- Reading: [Gene-culture co-evolution](simlang_reading_9.md)
+- [Lecture slides](lecture_slides/lecture9.pdf) (Nov 18)
+
 
 ### 10. This view of language
 
@@ -148,11 +155,9 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 ### 7. Hierarchical models and learning the prior **Cancelled due to industrial action**
 
-- Answers to Practical: [Hierarchical learning](https://github.com/smkirby/simlang2022/blob/master/lab7_answered.ipynb)
 
 ### 8. Innateness and culture
 
-- Programming practical: [Convergence to the prior](https://github.com/smkirby/simlang2022/blob/master/lab8.ipynb) (Mar 28, 30, 31)
 - Answers to Practical: [Convergence to the prior](https://github.com/smkirby/simlang2022/blob/master/lab8_answered.ipynb)
 
 

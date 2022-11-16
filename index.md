@@ -144,16 +144,17 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 - Reading: [Gene-culture co-evolution](simlang_reading_9.md)
 - [Lecture slides](lecture_slides/lecture9.pdf) (Nov 18)
+- Programming practical: [Co-evolutionary modelling](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab9.ipynb) (Nov 21, 22, 24)
 
 
 ### 10. This view of language
 
+- Reading: [Overview of this view of language](simlang_reading_10.md)
+- [Lecture slides](lecture_slides/lecture10.pdf) (Nov 25)
+- Catch up labs (Nov 28, 29, Dec 1)
 
 <!--
 
-
-
-### 7. Hierarchical models and learning the prior **Cancelled due to industrial action**
 
 
 ### 8. Innateness and culture
@@ -163,16 +164,9 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 ### 9. Biological and cultural evolution together
 
-- Reading: [Gene-culture co-evolution](simlang_reading_9.md)
-- [Lecture slides](lecture_slides/lecture9.pdf) (Apr 1)
-- Programming practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2022/blob/master/lab9.ipynb) (Apr 4, 6, 7)
 - Answers to Practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2022/blob/master/lab9_answered.ipynb)
 
 
-### 10. This view of language
-
-- Reading: [Overview of this view of language](simlang_reading_10.md)
-- [Lecture slides](lecture_slides/lecture10.pdf) (Apr 8)
 
 --->
 ## Re-use

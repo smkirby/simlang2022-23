@@ -138,6 +138,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
 - [Lecture slides](lecture_slides/lecture8.pdf) (Nov 11)
 - Programming practical: [Convergence to the prior](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab8.ipynb) (Nov 14, 15, 17)
+- Answers to Practical: [Convergence to the prior](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab8_answered.ipynb)
 
 
 ### 9. Biological and cultural evolution together
@@ -159,7 +160,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 ### 8. Innateness and culture
 
-- Answers to Practical: [Convergence to the prior](https://github.com/smkirby/simlang2022/blob/master/lab8_answered.ipynb)
+
 
 
 ### 9. Biological and cultural evolution together

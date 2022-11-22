@@ -137,7 +137,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 - Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
 - [Lecture slides](lecture_slides/lecture8.pdf) (Nov 11)
-- Programming practical: [Convergence to the prior](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab8.ipynb) (Nov 14, 15, 17)
+- Programming practical: [Convergence to the prior](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab8.ipynb) (Nov 14, 16, 17)
 - Answers to Practical: [Convergence to the prior](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab8_answered.ipynb)
 
 
@@ -145,14 +145,14 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 - Reading: [Gene-culture co-evolution](simlang_reading_9.md)
 - [Lecture slides](lecture_slides/lecture9.pdf) (Nov 18)
-- Programming practical: [Co-evolutionary modelling](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab9.ipynb) (Nov 21, 22, 24)
+- Programming practical: [Co-evolutionary modelling](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab9.ipynb) (Nov 21, 23, ~~24~~)
 
 
 ### 10. This view of language
 
 - Reading: [Overview of this view of language](simlang_reading_10.md)
-- [Lecture slides](lecture_slides/lecture10.pdf) (Nov 25)
-- Catch up labs (Nov 28, 29, Dec 1)
+- [Lecture slides](lecture_slides/lecture10.pdf) (~~Nov 25~~)
+- Catch up labs (Nov 28, ~~30~~, Dec 1)
 
 <!--
 

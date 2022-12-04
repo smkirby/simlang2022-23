@@ -146,7 +146,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Reading: [Gene-culture co-evolution](simlang_reading_9.md)
 - [Lecture slides](lecture_slides/lecture9.pdf) (Nov 18)
 - Programming practical: [Co-evolutionary modelling](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab9.ipynb) (Nov 21, 23, ~~24~~)
-- Answers to Practical: [Co-evolutionary modelling](https://nbviewer.org/github/smkirby/simlang2022-23/blob/main/lab9_answered.ipynb)
+- Answers to Practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2022-23/blob/main/lab9_answered.html)
 
 
 
